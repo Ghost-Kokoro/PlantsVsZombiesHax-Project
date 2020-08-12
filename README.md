@@ -1,3 +1,3 @@
 # Ghost-CodeLib
-Release codes
+Release codes:
 Plenty of them are game hacks.
